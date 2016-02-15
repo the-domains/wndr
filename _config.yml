@@ -1,7 +1,7 @@
-name: wndr
+name: smtest
 favicon: null
-layout_spectrum: 0.08097149711102247
-typography_spectrum: 0.44431268190965056
+layout_spectrum: 0.11769
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
