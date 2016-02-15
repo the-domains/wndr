@@ -1,0 +1,28 @@
+name: wndr
+favicon: null
+layout_spectrum: 0.08097149711102247
+typography_spectrum: 0.44431268190965056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8155159899033606
+  lightness: 0.8646814646199346
+  saturation: 0.3386366097256541
+  rhythmicContrast: 0.9000322113279253
+purpose: []
